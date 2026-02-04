@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Mike
-- 👀 I’m interested in .NET Core and Backend Systems. 
-- 🌱 I’m currently working on whatever interests me... C and Linux atm
+- 👀 I’m interested in C Programming and Operating Systems (Until it loses novelty and I switch to something else next week). 
+- 🌱 I’m currently working on whatever interests me... Which could be anything... While on a split kb
 - 💞️ I’m looking to collaborate on anything and everything
+- 📓 Learning how to take better notes... Perpetually
 - 📫 How to reach me 68mschmitt@gmail.com
