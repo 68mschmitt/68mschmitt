@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on anything and everything
 - 📓 Learning how to take better notes... Perpetually
 - 📫 How to reach me 68mschmitt@gmail.com
+- >_ Always working on my dotfiles (neovim config in reality)
